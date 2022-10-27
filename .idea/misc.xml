@@ -9,6 +9,11 @@
         <entry key="..\:/Android Studio/Konten/Epoxy Example/app/src/main/res/layout/view_holder_message_item.xml" value="0.209375" />
         <entry key="..\:/Android Studio/Konten/Epoxy Example/app/src/main/res/layout/view_holder_profile_active_item.xml" value="0.209375" />
         <entry key="..\:/Android Studio/Konten/Epoxy Example/app/src/main/res/layout/view_holder_recently_active_item.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_profile_image.xml" value="0.1045" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/view_holder_header_item.xml" value="0.1889564336372847" />
+        <entry key="app/src/main/res/layout/view_holder_message_item.xml" value="0.1889564336372847" />
+        <entry key="app/src/main/res/layout/view_holder_recently_active_item.xml" value="0.1889564336372847" />
       </map>
     </option>
   </component>

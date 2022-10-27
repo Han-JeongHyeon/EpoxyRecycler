@@ -1,5 +1,6 @@
 package com.azhar.epoxy.model
 
+import android.util.Log
 import android.view.View
 import androidx.appcompat.widget.AppCompatTextView
 import com.airbnb.epoxy.EpoxyAttribute

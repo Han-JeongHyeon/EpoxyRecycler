@@ -8,6 +8,7 @@ import com.airbnb.epoxy.EpoxyHolder
 import com.airbnb.epoxy.EpoxyModelClass
 import com.airbnb.epoxy.EpoxyModelWithHolder
 import com.azhar.epoxy.R
+import com.azhar.epoxy.controller.NumItemsInGridRow
 import com.azhar.epoxy.data.Profile
 
 /**
